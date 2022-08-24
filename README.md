@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tika-Develper
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java and its applications
-- 💞️ I’m looking to collaborate on Fithub
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me by supporting my youtube channel Country Ball Studios
 
 <!---
